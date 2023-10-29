@@ -36,3 +36,6 @@ class TradingBot:
 # Example usage
 bot = TradingBot('binance', 'YOUR_API_KEY', 'YOUR_API_SECRET')
 bot.run()
+
+def run(self):
+  self.connect_to_exchange
